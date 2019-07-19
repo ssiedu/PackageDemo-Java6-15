@@ -1,0 +1,5 @@
+package family;
+
+class B {
+    
+}
